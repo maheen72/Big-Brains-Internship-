@@ -70,9 +70,7 @@ if not api_key:
     )
 
 # Connect to Gemini
-
 client = genai.Client(api_key=api_key)
-
 MODEL_NAME = "gemini-3.5-flash"
 
 # AI Assistant
