@@ -74,7 +74,6 @@ client = genai.Client(api_key=api_key)
 MODEL_NAME = "gemini-3.5-flash"
 
 # AI Assistant
-
 def run_assistant():
 
     print("\n===================================")
