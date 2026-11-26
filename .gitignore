@@ -1,8 +1,5 @@
 .env
-**/.env
 __pycache__/
-**/__pycache__/
+*.pyc
 .venv/
-**/.venv/
-chroma_db/
-**/chroma_db/
+venv/
